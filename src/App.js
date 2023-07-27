@@ -8,8 +8,7 @@ function App() {
       <h1>This line is added by any of other team members</h1>
       <h1>Hello Everyone this line is updated by Sushil 23.10</h1>
       <h2>Good evening everyone, this is Kousik</h2>
-
-      <h1>Adding Second time by -Sushil </h1>    </div >
+    </div>
   );
 }
 
