@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>This line is added by Manjunadh from his local system</h1>
-    <h1>This line is added by any of other team members</h1>
+      <h1>This line is added by any of other team members</h1>
+      <h1>Hello Everyone this line is updated by Sushil 23.10</h1>
     </div>
   );
 }
